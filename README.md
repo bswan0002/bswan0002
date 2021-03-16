@@ -13,7 +13,9 @@ My name is Ben Swanson and I am full stack software engineer specializing in bui
 * Cellr | <a href="https://github.com/Lmontanari20/Cellar-front-end">Front End Repo</a> | <a href="https://github.com/Lmontanari20/Cellar-back-end">Back End Repo</a>
   * A wine cellar tracker web app where users create an interactive, rearrangeable wine cellar graphical display to log and visualize their wine collection
   * Video walkthrough coming soon
-
+* Only Tasks | <a href="https://github.com/bswan0002/to-do-frontend">Front End Repo</a> | <a href="https://github.com/tbustama/to-do-backend">Back End Repo</a>
+  * A vanilla JavaScript todo list web app where estimated duration of tasks are used to dynamically generate SVG status bars on corresponding days in the calendar
+  * Video walkthrough coming soon
 ---
 
 **Skills**
@@ -22,3 +24,5 @@ My name is Ben Swanson and I am full stack software engineer specializing in bui
 
 ---
 
+**Contact**
+Whether you're just learning to code or you're Satya Nadella, please feel encouraged to reach out to me via Email at <a href="mailto:bswan0002@gmail.com">bswan0002@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/bswan0002/">LinkedIn</a>
