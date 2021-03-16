@@ -1,12 +1,12 @@
 # Hello!
-## About Me ##
+##About Me##
 I am full stack software engineer specializing in building web applications with React and Rails. I find satisfaction in the tiniest improvements in efficiency, tidying up of a codebase, or creating simple and intuitive front end interfaces. I am at my best when collaborating, pair programming, or offering help to my fellow programmers.
 
 ---
 
-## Projects ##
+##Projects##
 
-### King Lake Cellars Members
+###King Lake Cellars Members###
 <a href="https://github.com/bswan0002/king-lake-frontend">Front End Repo</a>
 <a href="https://github.com/bswan0002/king-lake-backend">Back End Repo</a>
 Video walkthrough coming soon
