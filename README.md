@@ -8,6 +8,7 @@ I am full stack software engineer specializing in building web applications with
 **Projects**
 
 * King Lake Cellars Members
+  * Web app using Square's API to track wine club commitments, place pickup orders, and display member data
   * <a href="https://github.com/bswan0002/king-lake-frontend">Front End Repo</a>
   * <a href="https://github.com/bswan0002/king-lake-backend">Back End Repo</a>
   * Video walkthrough coming soon
