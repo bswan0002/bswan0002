@@ -1,7 +1,5 @@
 # Hello!
-
 ## About Me
-
 I am full stack software engineer specializing in building web applications with React and Rails. I find satisfaction in the tiniest improvements in efficiency, tidying up of a codebase, or creating simple and intuitive front end interfaces. I am at my best when collaborating, pair programming, or offering help to my fellow programmers.
 
 ---
