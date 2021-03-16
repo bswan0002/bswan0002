@@ -11,11 +11,13 @@ My name is Ben Swanson and I am full stack software engineer specializing in bui
   * Web app using Square's API to track wine club commitments, place pickup orders, and display member data
   * <a href="https://github.com/bswan0002/king-lake-frontend">Front End Repo</a> | <a href="https://github.com/bswan0002/king-lake-backend">Back End Repo</a>
   * Video walkthrough coming soon
-* Cellr | <a href="https://github.com/Lmontanari20/Cellar-front-end">Front End Repo</a> | <a href="https://github.com/Lmontanari20/Cellar-back-end">Back End Repo</a>
+* Cellr
   * A wine cellar tracker web app where users create an interactive, rearrangeable wine cellar graphical display to log and visualize their wine collection
+  * <a href="https://github.com/Lmontanari20/Cellar-front-end">Front End Repo</a> | <a href="https://github.com/Lmontanari20/Cellar-back-end">Back End Repo</a>
   * Video walkthrough coming soon
-* Only Tasks | <a href="https://github.com/bswan0002/to-do-frontend">Front End Repo</a> | <a href="https://github.com/tbustama/to-do-backend">Back End Repo</a>
+* Only Tasks
   * A vanilla JavaScript todo list web app where estimated duration of tasks are used to dynamically generate SVG status bars on corresponding days in the calendar
+  * <a href="https://github.com/bswan0002/to-do-frontend">Front End Repo</a> | <a href="https://github.com/tbustama/to-do-backend">Back End Repo</a>
   * Video walkthrough coming soon
 ---
 
