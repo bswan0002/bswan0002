@@ -8,11 +8,8 @@ I am full stack software engineer specializing in building web applications with
 **Projects**
 
 1. King Lake Cellars Members
-
   * <a href="https://github.com/bswan0002/king-lake-frontend">Front End Repo</a>
-
   * <a href="https://github.com/bswan0002/king-lake-backend">Back End Repo</a>
-
   * Video walkthrough coming soon
 
 ---
