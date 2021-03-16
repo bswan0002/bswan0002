@@ -25,4 +25,5 @@ My name is Ben Swanson and I am full stack software engineer specializing in bui
 ---
 
 **Contact**
+
 Whether you're just learning to code or you're Satya Nadella, please feel encouraged to reach out to me via Email at <a href="mailto:bswan0002@gmail.com">bswan0002@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/bswan0002/">LinkedIn</a>
